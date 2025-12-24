@@ -97,8 +97,11 @@ Nếu bạn không quen dùng dòng lệnh, GitHub Desktop là lựa chọn rấ
 Branch là một nhánh làm việc độc lập để phát triển tính năng mới hoặc sửa lỗi, giúp bạn tránh làm ảnh hưởng đến mã nguồn chính. Trên GitHub, bạn có thể tạo branch mới trực tiếp qua giao diện web như sau:
 
 **Bước 1:** Vào repository của bạn trên GitHub.
+
 **Bước 2:** Nhấn vào nút Branch: main (hoặc master) ngay phía trên danh sách file.
+
 **Bước 3:** Trong ô tìm kiếm, nhập tên nhánh mới bạn muốn tạo.
+
 **Bước 4:** GitHub sẽ hiển thị tùy chọn “Create branch: [tên-nhanh] from ‘main’” → Nhấn vào để tạo.
 
 Nhánh mới sẽ được tạo dựa trên mã nguồn hiện tại của nhánh chính (main hoặc master), và bạn có thể bắt đầu làm việc ngay.

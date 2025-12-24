@@ -1,3 +1,6 @@
+git config --global user.name "Tuan Anh"
+git config --global user.email "ntanh80"
+
 git add .
 git commit -m "Cập nhật code"
 
