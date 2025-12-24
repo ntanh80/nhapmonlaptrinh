@@ -7,8 +7,11 @@ git add .
 git commit -m "Cập nhật code"
 
 git remote add origin https://github.com/ntanh80/nhapmonlaptrinh.git
+git pull --rebase origin master
 git push -u origin master
 
+Ghi ddeef 
+git push -f origin master
 
 -----------
 Làm việc với nhánh
