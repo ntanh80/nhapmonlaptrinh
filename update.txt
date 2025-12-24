@@ -1,10 +1,20 @@
 git config --global user.name "Tuan Anh"
-git config --global user.email "ntanh80"
+git config --global user.email "ntanh80#gmail.com"
+
+git init
 
 git add .
 git commit -m "Cập nhật code"
 
 git remote add origin https://github.com/ntanh80/nhapmonlaptrinh.git
-git push  
+git push -u origin master
+
+
+-----------
+Làm việc với nhánh
+git checkout -b main
+
+Gộp nhánh master vào nhánh hiện tại
+git pull origin master 
 
 git pull
